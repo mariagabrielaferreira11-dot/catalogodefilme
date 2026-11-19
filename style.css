@@ -32,9 +32,9 @@ body {
     font-size: 64px;
     line-height: 150px;
     -webkit-text-stroke-color: rgb(6, 6, 6);
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: 2px;
     color: rgb(22, 23, 23);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     align-items: center;
     margin: 0;
     margin-top: 20px;

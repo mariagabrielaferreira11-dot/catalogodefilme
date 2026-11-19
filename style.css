@@ -13,7 +13,7 @@ body {
 }
 .cabeçalho-título{
     color:rgb(52, 49, 26);
-    font-size: 80px;
+    font-size: 100px;
     font-family: "Irish grover";
     background-color: rgba(206, 149, 16, 0.8);
     border: 2px solid rgb(63, 45, 15);
@@ -22,9 +22,9 @@ body {
     border-radius: 5px;
 }
 .imagem-logo{
-    height: 70px;
+    height: 90px;
     width: auto;
-    max-width: 100%;
+    max-width: 70%;
     display: block;
     object-fit: contain;
 }

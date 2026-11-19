@@ -28,3 +28,15 @@ body {
     display: block;
     object-fit: contain;
 }
+.título-filme-1{
+    font-size: 64px;
+    line-height: 150px;
+    -webkit-text-stroke-color: rgb(6, 6, 6);
+    -webkit-text-stroke-width: 2px;
+    color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    margin: 0;
+    margin-top: 20px;
+
+}

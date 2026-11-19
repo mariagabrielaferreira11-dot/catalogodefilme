@@ -29,10 +29,10 @@ body {
     object-fit: contain;
 }
 .título-filme-1{
-    font-size: 64px;
-    line-height: 150px;
+    font-size: 70px;
+    line-height: 130px;
     -webkit-text-stroke-color: rgb(6, 6, 6);
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 1px;
     color: rgb(22, 23, 23);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     align-items: center;
